@@ -14,6 +14,7 @@ I focus on writing clean, structured code and building responsive, user-friendly
 I hold:
 - Higher Certificate in Mobile Application & Web Development  
 - Web Applications Developer Certificate  
+- National Senior Certificate
 
 ---
 
